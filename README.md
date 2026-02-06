@@ -17,5 +17,5 @@
 
 # Credits
 
-_ Thanks to Challacade for the tutorial for this template _
-_ Visit his channel https://www.youtube.com/@Challacade _
+_Thanks to Challacade for the tutorial for this template_
+_Visit his channel https://www.youtube.com/@Challacade_
