@@ -1,4 +1,4 @@
-# lualove2d-pixelgame-topdown
+# A simple lua love2d top down pixel game template
 
 **To run this game:**
 
@@ -17,5 +17,5 @@
 
 # Credits
 
-_Thanks to Challacade for the tutorial for this template_
-_ Visit his channel https://www.youtube.com/@Challacade_
+_ Thanks to Challacade for the tutorial for this template _
+_ Visit his channel https://www.youtube.com/@Challacade _
